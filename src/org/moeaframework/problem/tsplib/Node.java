@@ -108,12 +108,8 @@ public class Node {
 		if (id != other.id) {
 			return false;
 		}
-		
-		if (!Arrays.equals(position, other.position)) {
-			return false;
-		}
-		
-		return true;
-	}
+
+        return Arrays.equals(position, other.position);
+    }
 
 }

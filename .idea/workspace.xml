@@ -2,154 +2,101 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b6669c3-0275-4de4-a126-626c1f04c47d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/tsp/a280.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/a280.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/ali535.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/att48.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/att48.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/att532.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/bayg29.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/bayg29.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/bays29.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/bays29.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/berlin52.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/berlin52.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/bier127.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/brazil58.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/brd14051.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/brg180.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/brg180.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/burma14.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/ch130.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/ch130.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/ch150.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/ch150.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/d1291.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/d15112.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/d1655.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/d18512.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/d198.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/d2103.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/d493.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/d657.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/dantzig42.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/dsj1000.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/eil101.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/eil101.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/eil51.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/eil51.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/eil76.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/eil76.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/fl1400.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/fl1577.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/fl3795.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/fl417.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/fnl4461.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/fri26.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/fri26.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/gil262.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/gr120.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/gr120.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/gr137.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/gr17.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/gr202.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/gr202.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/gr21.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/gr229.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/gr24.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/gr24.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/gr431.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/gr48.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/gr48.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/gr666.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/gr666.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/gr96.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/gr96.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/hk48.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/kroA100.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/kroA100.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/kroA150.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/kroA200.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/kroB100.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/kroB150.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/kroB200.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/kroC100.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/kroC100.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/kroD100.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/kroD100.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/kroE100.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/lin105.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/lin105.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/lin318.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/linhp318.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/nrw1379.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/p654.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/pa561.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/pa561.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/pcb1173.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/pcb3038.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/pcb442.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/pcb442.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/pla33810.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/pla7397.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/pla85900.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/pr1002.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/pr1002.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/pr107.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/pr124.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/pr136.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/pr144.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/pr152.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/pr226.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/pr2392.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/pr2392.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/pr264.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/pr299.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/pr439.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/pr76.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/pr76.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/rat195.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/rat575.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/rat783.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/rat99.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/rd100.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/rd100.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/rd400.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/rl11849.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/rl1304.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/rl1323.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/rl1889.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/rl5915.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/rl5934.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/si1032.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/si175.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/si535.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/st70.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/st70.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/swiss42.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/ts225.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/tsp225.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/tsp225.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/u1060.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/u1432.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/u159.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/u1817.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/u2152.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/u2319.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/u574.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/u724.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/ulysses16.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/ulysses16.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/ulysses22.opt.tour" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/ulysses22.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/usa13509.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/vm1084.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/vm1748.tsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tsp/xray.problems" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sg/Helpers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mscharhag_oleaster_oleaster_matcher_0_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mscharhag_oleaster_oleaster_runner_0_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_6_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_6_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_7_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/tsp2/dj38.tsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/tsp2/lu980.tsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/tsp2/oliver30.tsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/moeaframework/problem/tsplib/ACOAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/ACSRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/ASRankRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/ASRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/EASRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/GenericRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/MMASRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/ACO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/AntColonySystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/AntSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/ElitistAntSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/MaxMinAntSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/RankBasedAntSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/ant/Ant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/ant/exploration/AbstractAntExploration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/ant/exploration/PseudoRandomProportionalRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/ant/exploration/QSelection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/ant/initialization/AbstractAntInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/ant/initialization/AlwaysRandomPositions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/ant/initialization/AnAntAtARandomVertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/ant/initialization/AnAntAtEachVertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/ant/selection/AbstractAntSelection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/ant/selection/RandomSelection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/ant/selection/RouletteWheel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/daemonactions/AbstractDaemonActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/daemonactions/RestartCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/daemonactions/UpdatePheromoneMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/daemonactions/UpdateTMinAndTMaxValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/graph/AntGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/graph/initialization/ACSInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/graph/initialization/ASInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/graph/initialization/ASRankInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/graph/initialization/AbstractGraphInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/graph/initialization/EASInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/graph/initialization/FixedValueInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/graph/initialization/MMASInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/graph/initialization/UniformInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/rule/AbstractRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/rule/globalupdate/AbstractGlobalUpdateRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/rule/globalupdate/deposit/AbstractDeposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/rule/globalupdate/deposit/ElitistDeposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/rule/globalupdate/deposit/FullDeposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/rule/globalupdate/deposit/PartialDeposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/rule/globalupdate/deposit/RankDeposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/rule/globalupdate/evaporation/AbstractEvaporation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/rule/globalupdate/evaporation/FullEvaporation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/rule/localupdate/ACSLocalUpdatingRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/rule/localupdate/AbstractLocalUpdateRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/subset/AbstractSubSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/subset/many/AbstractManyAnts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/subset/many/AllAnts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/subset/many/RankAnt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/subset/single/AbstractSingleAnt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/subset/single/CurrentBest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/subset/single/GlobalBest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/subset/single/GlobalOrCurrentBest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/aco/subset/single/RandomAnt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/factory/ProblemFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/problem/Problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/problem/kp/KnapsackProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/problem/nrp/NextReleaseProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/problem/qap/QuadraticAssignmentProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/problem/tsp/TravellingSalesmanProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/util/Convert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/util/ExecutionStats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/util/NearestNeighbour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/util/Parameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/util/io/InstanceReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/util/io/TSPLIBReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/util/random/JMetalRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/util/random/JavaRandomGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thiagodnf/jacof/util/random/PseudoRandomGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AntColonyOptimization.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AntColonyOptimization.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/sg/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sg/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/moeaframework/problem/tsplib/TSPExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/moeaframework/problem/tsplib/Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/moeaframework/problem/tsplib/Edge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/moeaframework/problem/tsplib/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/moeaframework/problem/tsplib/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/moeaframework/problem/tsplib/NodeCoordType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/moeaframework/problem/tsplib/NodeCoordType.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -186,20 +133,29 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/data/tsp" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/src/aco" />
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/data/tsp" />
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="thiagodnf.jacof.aco" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -215,7 +171,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ACSRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thiagodnf.ACSRunner" />
+      <module name="AntColonyOptimization" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ASRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thiagodnf.ASRunner" />
+      <module name="AntColonyOptimization" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.sg.Main" />
       <module name="AntColonyOptimization" />
@@ -236,6 +208,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ASRunner" />
+        <item itemvalue="Application.ACSRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +226,13 @@
       <workItem from="1574926361184" duration="63000" />
       <workItem from="1574928094857" duration="49000" />
       <workItem from="1574928171981" duration="881000" />
-      <workItem from="1575308979419" duration="3356000" />
+      <workItem from="1575308979419" duration="3606000" />
+      <workItem from="1575363355741" duration="148000" />
+      <workItem from="1575363693452" duration="3000" />
+      <workItem from="1576689839771" duration="2735000" />
+      <workItem from="1576694679589" duration="133000" />
+      <workItem from="1576694817691" duration="68000" />
+      <workItem from="1576695213546" duration="1160000" />
     </task>
     <servers />
   </component>
